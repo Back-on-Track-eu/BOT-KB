@@ -1,4 +1,4 @@
-This is a suggested knowledge base for Back on Track.
+This is a knowledge base for Back on Track.
 
 [Back on Track](https://back-on-track.eu/) is an organisation committed to more, better and affordable nighttrains.
 This repository has been created to provide information and other resources to:
